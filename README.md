@@ -95,15 +95,10 @@ Deploy model as a lightweight web application
 
 ## Requirements 
 
-I created a virtual environment using anaconda and jupyter notebooks. 
-
+I created a virtual environment using anaconda and jupyter notebooks. with the following imports
 
 tensorflow
-
 pandas
-
 matplotlib
-
 numpy 
-
 scikit-learn 
